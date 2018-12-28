@@ -1,0 +1,174 @@
+Script Started at 09:28:26
+
+-----------------------
+[34mSorting Unsorted Data[0m
+-----------------------
+
+[35mBubble Sort:[0m
+
+Array Size: 1000
+-----------------------
+First Sort: 0.001782
+Second Sort: 0.001731
+Third Sort: 0.001727
+-----------------------
+Average Sort Time: .001746
+
+Array Size: 10000
+-----------------------
+First Sort: 0.247035
+Second Sort: 0.244276
+Third Sort: 0.245748
+-----------------------
+Average Sort Time: .245686
+
+Array Size: 25000
+-----------------------
+First Sort: 1.59526
+Second Sort: 1.63961
+Third Sort: 1.66152
+-----------------------
+Average Sort Time: 1.632130
+
+Array Size: 50000
+-----------------------
+First Sort: 6.63658
+Second Sort: 6.65992
+Third Sort: 6.48986
+-----------------------
+Average Sort Time: 6.595453
+
+Array Size: 100000
+-----------------------
+First Sort: 36.9946
+Second Sort: 26.489
+Third Sort: 26.0441
+-----------------------
+Average Sort Time: 29.842566
+
+Array Size: 250000
+-----------------------
+First Sort: 161.961
+Second Sort: 161.945
+Third Sort: 161.989
+-----------------------
+Average Sort Time: 161.965000
+
+Array Size: 500000
+-----------------------
+First Sort: 648.311
+Second Sort: 647.942
+Third Sort: 649.67
+-----------------------
+Average Sort Time: 648.641000
+
+[35mShaker Sort:[0m
+
+Array Size: 1000
+-----------------------
+First Sort: 0.001796
+Second Sort: 0.001547
+Third Sort: 0.001548
+-----------------------
+Average Sort Time: .001630
+
+Array Size: 10000
+-----------------------
+First Sort: 0.188441
+Second Sort: 0.189061
+Third Sort: 0.188264
+-----------------------
+Average Sort Time: .188588
+
+Array Size: 25000
+-----------------------
+First Sort: 1.22887
+Second Sort: 1.22965
+Third Sort: 1.23028
+-----------------------
+Average Sort Time: 1.229600
+
+Array Size: 50000
+-----------------------
+First Sort: 5.06219
+Second Sort: 5.04949
+Third Sort: 5.04308
+-----------------------
+Average Sort Time: 5.051586
+
+Array Size: 100000
+-----------------------
+First Sort: 20.4246
+Second Sort: 20.438
+Third Sort: 20.4348
+-----------------------
+Average Sort Time: 20.432466
+
+Array Size: 250000
+-----------------------
+First Sort: 127.816
+Second Sort: 127.898
+Third Sort: 127.91
+-----------------------
+Average Sort Time: 127.874666
+
+Array Size: 500000
+-----------------------
+First Sort: 511.588
+Second Sort: 511.715
+Third Sort: 511.892
+-----------------------
+Average Sort Time: 511.731666
+
+[35mSelection Sort:[0m
+
+Array Size: 1000
+-----------------------
+First Sort: 0.001417
+Second Sort: 0.00122
+Third Sort: 0.001245
+-----------------------
+Average Sort Time: .001294
+
+Array Size: 10000
+-----------------------
+First Sort: 0.11688
+Second Sort: 0.117397
+Third Sort: 0.118136
+-----------------------
+Average Sort Time: .117471
+
+Array Size: 25000
+-----------------------
+First Sort: 0.728433
+Second Sort: 0.728478
+Third Sort: 0.728368
+-----------------------
+Average Sort Time: .728426
+
+Array Size: 50000
+-----------------------
+First Sort: 2.91205
+Second Sort: 2.94916
+Third Sort: 2.94301
+-----------------------
+Average Sort Time: 2.934740
+
+Array Size: 100000
+-----------------------
+First Sort: 11.714
+Second Sort: 11.6598
+Third Sort: 11.6661
+-----------------------
+Average Sort Time: 11.679966
+
+Array Size: 250000
+-----------------------
+First Sort: 73.2972
+Second Sort: 105.77
+Third Sort: 94.3391
+-----------------------
+Average Sort Time: 91.135433
+
+Array Size: 500000
+-----------------------

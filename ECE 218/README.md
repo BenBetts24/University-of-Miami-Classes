@@ -5,7 +5,7 @@ To run any of this code, simply add it to UNIX on a mac or dedicated server. Com
 
 # Quick Lab Summaries:
 
-Lab 07: Focus on working with visual libraries and random generation. Randomly generates a city scene.
+Lab 2: Learning 4 basic algorithms and testing their timing. Used bash scripting to automate timing of over 150 sorts.
 
 Lab 08: Focus on UI creation with visual libraries. Fully interactive calculator with UI.
 
